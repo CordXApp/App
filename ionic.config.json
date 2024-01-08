@@ -1,0 +1,7 @@
+{
+  "name": "cordxapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
