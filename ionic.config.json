@@ -1,7 +1,7 @@
 {
-  "name": "cordxapp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "custom"
+    "name": "cordxapp",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "custom"
 }

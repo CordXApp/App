@@ -2,7 +2,15 @@
   "appId": "com.cordx.app",
   "appName": "CordX",
   "webDir": "dist",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
   "server": {
     "androidScheme": "https"
-  }
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
 }
